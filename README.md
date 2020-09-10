@@ -6,6 +6,9 @@ For this assignment, you'll create a workout tracker. You have already been prov
 
 ## Deployment 
  https://fast-everglades-13912.herokuapp.com/
+ 
+ ## Usage
+ ![workout-traker](https://user-images.githubusercontent.com/62354759/92668556-23c48f80-f2dd-11ea-9d7b-2c3b021160dd.gif)
 
 ## User Story
 
