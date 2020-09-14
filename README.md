@@ -12,8 +12,6 @@ Deployment: https://fast-everglades-13912.herokuapp.com/
   * [Installation](#Installation)
 
   * [Usage](#Usage)
-  
-  * [Credits](#Credits)
 
   * [License](#License)
 
