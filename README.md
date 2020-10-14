@@ -23,9 +23,7 @@ Deployment: https://fast-everglades-13912.herokuapp.com/
 A workout tracker that allows users to create a new workout or continue with their last workout.
 The user is able to:
   * Add exercises to a previous workout plan.
-
   * Add new exercises to a new workout plan.
-
   * View the combined weight of multiple exercises on the `stats` page.
   
 ## User Story
