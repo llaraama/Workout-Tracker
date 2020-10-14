@@ -37,7 +37,7 @@ A consumer will reach their fitness goals more quickly when they track their wor
 Clone this repo to your local machine using: https://github.com/llaraama/Workout-Tracker.git
 
 ## Usage
- ![workout-traker](https://user-images.githubusercontent.com/62354759/92668556-23c48f80-f2dd-11ea-9d7b-2c3b021160dd.gif)
+![Fitness Tracker](https://user-images.githubusercontent.com/62354759/95943038-c11a5400-0db2-11eb-82ed-057c9fc4f539.gif)
 
 ## License
 MIT License 
