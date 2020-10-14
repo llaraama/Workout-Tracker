@@ -8,6 +8,8 @@ Deployment: https://fast-everglades-13912.herokuapp.com/
  
   * [User Story](#User-Story)
   
+  * [Business Context](#Business-Context)
+  
   * [Installation](#Installation)
 
   * [Usage](#Usage)
