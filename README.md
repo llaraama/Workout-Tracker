@@ -18,7 +18,6 @@ Deployment: https://fast-everglades-13912.herokuapp.com/
 
   * [Technology](#Technology)
 
-
 ## Description 
 A workout tracker that allows users to create a new workout or continue with their last workout.
 The user is able to:
@@ -43,7 +42,6 @@ MIT License
 
 ## Contributing
 Fork this repository. Create a branch: git checkout -b <branch_name>. Add: git add . Make your changes and commit them: git commit -m '<commit_message>' Push to the original branch: git push origin <branch_name> Create the pull request.
-
 
 ## Technology 
 NoSQL, Mongoose, Express, Javascript, Bootstrap, HTML and CSS 
