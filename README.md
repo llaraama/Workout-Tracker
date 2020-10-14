@@ -1,5 +1,7 @@
 # Workout-Tracker
-Deployment: https://fast-everglades-13912.herokuapp.com/
+
+##Deployment:
+https://fast-everglades-13912.herokuapp.com/
 
 ![badmath](https://img.shields.io/github/languages/top/llaraama/Workout-Tracker)
 
